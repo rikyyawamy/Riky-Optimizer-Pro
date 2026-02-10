@@ -54,3 +54,9 @@ Optimización de Memoria RAM: Se ejecutan comandos de consola (sc stop y sc conf
 Mantenimiento del Sistema: Ejecuta sfc /scannow para reparar archivos corruptos y utiliza wevtutil para limpiar los registros de eventos de Windows, liberando carga del procesador.
 
 Limpieza de Archivos: Automatiza la eliminación de archivos temporales mediante comandos de sistema en las rutas %TEMP% y C:\Windows\Temp\.
+
+⚠️ Nota sobre el EXE:
+Algunos antivirus pueden marcar el ejecutable como sospechoso
+debido a que modifica servicios y configuraciones del sistema.
+El código fuente está disponible para verificación completa.
+
