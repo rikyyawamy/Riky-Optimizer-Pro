@@ -55,6 +55,68 @@ Mantenimiento del Sistema: Ejecuta sfc /scannow para reparar archivos corruptos 
 
 Limpieza de Archivos: Automatiza la eliminación de archivos temporales mediante comandos de sistema en las rutas %TEMP% y C:\Windows\Temp\.
 
+🔄 Modo Seguro / Trabajo – ¿Qué restaura exactamente?
+
+El Modo Seguro / Trabajo de Riky Optimizer Pro está diseñado para devolver el sistema a un estado funcional para tareas diarias, como estudio, oficina o trabajo, sin necesidad de reinstalar Windows ni deshacer manualmente los cambios.
+
+Al activar este modo, el script realiza las siguientes acciones:
+
+✅ Servicios que se restauran
+
+El optimizador vuelve a activar y configurar automáticamente los siguientes servicios esenciales:
+
+SysMain (Superfetch)
+Permite la precarga inteligente de aplicaciones y mejora la experiencia en tareas cotidianas.
+
+Spooler (Cola de impresión)
+Restaura completamente la capacidad de imprimir documentos en impresoras físicas o virtuales.
+
+WSearch (Windows Search)
+Reactiva la indexación y búsqueda de archivos en el sistema, útil para trabajo y estudio.
+
+Estos servicios se configuran nuevamente en inicio automático y se inician de inmediato.
+
+⚡ Gestión de energía restaurada
+
+El script restablece el plan de energía Equilibrado (Balanceado) de Windows, eliminando el modo de Máximo Rendimiento utilizado durante el Modo Bestia.
+
+Esto permite:
+
+Menor consumo energético
+
+Menos temperatura
+
+Comportamiento normal del sistema para uso prolongado
+
+ℹ️ Servicios que NO se tocan al restaurar
+
+Por diseño, el Modo Seguro / Trabajo no reactiva automáticamente algunos servicios que no son críticos para uso diario, como:
+
+DiagTrack (Telemetría de Microsoft)
+
+MapsBroker (Servicios de mapas)
+
+Estos permanecen deshabilitados para mantener un equilibrio entre privacidad y rendimiento, incluso en uso cotidiano.
+
+🧠 Importante saber
+
+El Modo Seguro / Trabajo NO convierte Windows en Lite
+
+No elimina funciones del sistema
+
+No afecta programas instalados
+
+No borra archivos personales
+
+El usuario puede alternar libremente entre Modo Bestia (Gaming) y Modo Seguro / Trabajo según sus necesidades.
+
+🏁 Resumen rápido
+
+✔️ Puedes jugar con rendimiento optimizado
+✔️ Luego volver a imprimir, estudiar o trabajar
+✔️ Sin reinstalar Windows
+✔️ Sin scripts externos adicionales
+
 ⚠️ Nota sobre el EXE:
 Algunos antivirus pueden marcar el ejecutable como sospechoso
 debido a que modifica servicios y configuraciones del sistema.
